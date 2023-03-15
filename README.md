@@ -34,7 +34,7 @@ The dataset also includes questionnaire data gathered from participants at diffe
 
 [Dataset Description](https://full-stack-assets.s3.eu-west-3.amazonaws.com/M03-EDA/Speed+Dating+Data+Key.doc)
 
-## Deliverable 📬
+## Deliverable 
 
 To complete this project, your team should deliver:
 
