@@ -42,6 +42,3 @@ A notebook with:
 * descriptive statistics
 * visualisations
 * captions and interpretations on how the stats and visualisations are relevant to why people agree to a second date
-
-
-video link : https://share.vidyard.com/watch/SZQckwmCFGBrWkw5eBn1YS?
